@@ -1,11 +1,8 @@
 # T4Winux
-How install?
 
-# T4Winux
+## 📦 Installation
 
-## 📦 Установка
-
-### 1. Полная установка (через Git)
+### 1. Full installation (via Git)
 ```bash
 git clone https://github.com/K2254IVV/T4Winux.git
 cd T4Winux
@@ -18,18 +15,13 @@ wget https://raw.githubusercontent.com/K2254IVV/T4Winux/main/fastinstall.sh
 sh fastinstall.sh
 ```
 
-🛠️ Требования
-Linux (Ubuntu/Debian)
+🛠️ Requirements
+- Linux (Ubuntu/Debian)
+- Bash 4.0+
+- sudo privileges
+- Internet connection
 
-Bash 4.0+
-
-sudo права
-
-Интернет-соединение
-
-⚙️ Функционал
-Автоматическая установка T4W
-
-Настройка системных зависимостей
-
-Оптимизация производительности
+⚙️ Features
+- Automatic T4W installation
+- System dependencies configuration
+- Performance optimization
