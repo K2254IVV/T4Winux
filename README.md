@@ -6,6 +6,7 @@
 ```bash
 git clone https://github.com/K2254IVV/T4Winux.git
 cd T4Winux
+chmod +x install.sh
 sudo ./install.sh
 ```
 OR
